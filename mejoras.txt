@@ -1,0 +1,8 @@
+PROPUESTA DE MEJORAS
+
+1. Organizar mejor la información del proyecto.
+2. Mantener los archivos correctamente identificados.
+3. Mejorar la presentación y organización del contenido.
+4. Facilitar futuras modificaciones del proyecto.
+
+Estas propuestas buscan contribuir a la organización y mejora del proyecto.
